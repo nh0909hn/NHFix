@@ -41,13 +41,16 @@ Gói 1 (Gói Lite) phù hợp với những đối tượng người dùng :
 + Mới mua máy và chỉ cần cài Windows trên máy đó.
 + Không có nhu cầu sao lưu dữ liệu trên HĐH cũ. 
 + Muốn tự cài driver, soft.
+
 Gói 2 (Gói phổ thông) phù hợp với những đối tượng người dùng :
 + Muốn được cài đầy đủ các driver, phần mềm phổ thông để có thể sử dụng ngay sau khi cài đặt.
 + Hệ điều hành cũ còn lưu dữ liệu trên Desktop, Documents, Download,... và cần sao lưu trước khi cài đặt lại.
+
 Gói 3 (Gói tiêu chuẩn) phù hợp với những đối tượng người dùng :
 + Muốn được cài đầy đủ các driver, phần mềm phổ thông để có thể sử dụng ngay sau khi cài đặt.
 + Hệ điều hành cũ còn lưu dữ liệu trên Desktop, Documents, Download,... và cần sao lưu trước khi cài đặt lại.
 + Cần được bảo hành miễn phí trong 2 tuần kể từ khi sửa chữa, đề phòng phát sinh lỗi.
+
 Gói 4 (Gói cao cấp) phù hợp với những đối tượng người dùng :
 + Muốn được cài đầy đủ các driver, phần mềm phổ thông để có thể sử dụng ngay sau khi cài đặt.
 + Hệ điều hành cũ còn lưu dữ liệu trên Desktop, Documents, Download,... và cần sao lưu trước khi cài đặt lại.
