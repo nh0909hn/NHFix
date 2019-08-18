@@ -33,8 +33,6 @@ Gói đặc biệt : Lắp ráp PC (100.000₫)
 - Thiết lập BIOS miễn phí.
 - Giảm trực tiếp 10.000₫ nếu mua cùng với các gói sửa chữa PC.
 
-Để biết thêm chi tiết, hãy liên hệ [Admin](https://facebook.com/BlakeCoDon).
-
 ### Tips : Hướng dẫn chọn gói phù hợp
 
 Gói 1 (Gói Lite) phù hợp với những đối tượng người dùng :
@@ -72,3 +70,8 @@ Gói 4 (Gói cao cấp) phù hợp với những đối tượng người dùng 
 6. Trong trường hợp chúng tôi đã đến nhưng bạn không muốn cài đặt, bạn sẽ phải trả 50.000₫ phí đi lại.
 
 ### Phí cài đặt tận nơi : 20.000₫ (Bắc Từ Liêm) - 30.000₫ (Nam Từ Liêm)
+
+### Liên hệ đặt lịch ngay :
+
+Facebook : [Văn Hoàng](https://facebook.com/BlakeCoDon)
+Faecbook : [Nguyễn Hiếu](https://facebook.com/nobinguyen.producer)
