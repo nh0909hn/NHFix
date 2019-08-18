@@ -73,5 +73,5 @@ Gói 4 (Gói cao cấp) phù hợp với những đối tượng người dùng 
 
 ### Liên hệ đặt lịch ngay :
 
-Facebook : [Văn Hoàng](https://facebook.com/BlakeCoDon)
-Faecbook : [Nguyễn Hiếu](https://facebook.com/nobinguyen.producer)
+- Facebook : [Văn Hoàng](https://facebook.com/BlakeCoDon)
+- Facebook : [Nguyễn Hiếu](https://facebook.com/nobinguyen.producer)
