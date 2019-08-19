@@ -1,6 +1,7 @@
 ## Dịch vụ cài đặt, sửa chữa, lắp ráp PC của NH Studio.
 
-Uy tin 100%. Chỉ dành cho quận Bắc Từ Liêm, Nam Từ Liêm.
+- Uy tin 100%. 
+- Hoạt động trên các địa bàn : Bắc Từ Liêm, Nam Từ Liêm, Cầu Giấy.
 
 ### Các gói dịch vụ
 
@@ -27,6 +28,9 @@ Gói 4 : Gói cao cấp (75.000₫)
 - Hỗ trợ sao lưu dữ liệu trên ổ hệ điều hành cũ (VD : Desktop, Download, Documents,...).
 - Bảo hành miễn phí trong vòng 1 tháng.
 - Giải đáp thắc mắc về phần mềm, windows online miễn phí trong thời gian còn bảo hành.
+
+Gói 5 : Cài Linux
+- Coming soon!
 
 Gói đặc biệt : Lắp ráp PC (100.000₫)
 - Hỗ trợ lắp ráp + đi dây nếu bạn có đầy đủ các linh kiện.
@@ -60,6 +64,14 @@ Gói 4 (Gói cao cấp) phù hợp với những đối tượng người dùng 
 - Trước khi hết bảo hành 7 ngày, nếu bạn có thắc mắc về lỗi phần mềm, windows do chúng tôi gây ra thì bạn sẽ được bảo hành thêm 2 tuần kể từ khi sửa chữa lỗi đó mà không cần trả thêm phí sửa chữa tận nơi.
 - Hỗ trợ cài đặt phần mềm, games qua TeamViewer hoặc hướng dẫn qua Facebook, Zalo.
 
+### Các dịch vụ khác
+
+- Phá pass Windows (XP/Vista/7/8/8.1/10) : 10.000₫
+- Phân vùng ổ cứng (Chia ổ cứng) : 20.000₫
+- Khôi phục dữ liệu trong USB bị ẩn do virus : 20.000₫
+- Khôi phục dữ liệu ổ cứng bị quick format hoặc bị xóa (Nếu có thể) : 30.000₫
+- Cài Android : 50.000₫
+
 ### Lưu ý
 
 1. Đối với các gói có bảo hành, bạn sẽ được miễn phí sửa nhưng vẫn phải trả phí cài đặt tận nơi (ngoại trừ trường hợp nêu ở trên). 
@@ -69,9 +81,30 @@ Gói 4 (Gói cao cấp) phù hợp với những đối tượng người dùng 
 5. Nếu bạn có key windows bản quyền hoặc tài khoản MS có windows bản quyền, bạn có thể yêu cầu chúng tôi không active windows.
 6. Trong trường hợp chúng tôi đã đến nhưng bạn không muốn cài đặt, bạn sẽ phải trả 50.000₫ phí đi lại.
 
-### Phí cài đặt tận nơi : 20.000₫ (Bắc Từ Liêm) - 30.000₫ (Nam Từ Liêm)
+### Thời gian hoạt động
 
-### Liên hệ đặt lịch ngay :
+- Thứ 2 : 13h đến 21h
+- Chủ nhật : 8h đến 21h
+- Các ý kiến phản hồi, thắc mắc hoặc yêu cầu bảo hành của khách hàng sẽ được trả lời trong vòng 2h hoặc sau 5 giờ chiều.
+
+### Phí cài đặt tận nơi
+
+- Bắc Từ Liêm : 20.000₫
+- Nam Từ Liêm : 35.000₫
+- Cầu Giấy : 40.000₫
+
+### FAQs
+
+1. Tôi đã mua gói cài win có bảo hành. Làm thế nào để được bảo hành nếu cần?
+- Bạn hãy ib qua facebook của Admin ở dưới. Chúng tôi sẽ hẹn lịch bảo hành trong thời gian hoạt động.
+
+2. Tôi đã mua các phần mềm diệt virus bản quyền như BKAV, Kaspersky,... Khi cài lại win có bị mất bản quyền không?
+- Bạn hãy yên tâm về vấn đề này. Đối với BKAV, chúng tôi sẽ backup bản quyền trước khi cài lại win. Còn đa số các phần mềm còn lại đều lưu bản quyền trên account. Bạn có thể yên tâm nếu mua các phần mềm bản quyền này.
+
+3. Laptop của tôi được cài sẵn win bản quyền. Vậy sau khi cài lại win có mất bản quyền không? 
+- Do đây là windows bản quyền dưới dạng OEM nên sau khi cài lại win sẽ mất bản quyền. Nhưng sau khi cài lại win, bạn sẽ được một bản windows sạch hơn, mượt hơn và không có các phần mềm thừa thãi của nhà sản xuất. Chúng tôi sẽ active bản quyền windows vĩnh viễn miễn phí cho bạn.
+
+### Liên hệ đặt lịch ngay
 
 - Facebook : [Văn Hoàng](https://facebook.com/BlakeCoDon)
 - Facebook : [Nguyễn Hiếu](https://facebook.com/nobinguyen.producer)
