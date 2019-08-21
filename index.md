@@ -64,7 +64,7 @@ GIẢM GIÁ 10% KHI CÀI TỪ 3 MÁY TRỞ LÊN.
 
 ### Lợi ích khi được giải đáp thắc mắc về phần mềm, windows online
 
-- Trước khi hết bảo hành 7 ngày, nếu bạn có thắc mắc về lỗi phần mềm, windows do chúng tôi gây ra thì bạn sẽ được bảo hành thêm 2 tuần kể từ khi sửa chữa lỗi đó mà không cần trả thêm phí sửa chữa tận nơi.
+- Trước khi hết bảo hành 7 ngày, nếu bạn có thắc mắc về lỗi phần mềm, windows do chúng tôi gây ra thì bạn sẽ được bảo hành thêm 2 tuần kể từ khi sửa chữa lỗi đó mà không cần trả thêm phí sửa chữa tận nơi. (Lưu ý : Nếu lỗi do xung đột phần mềm hoặc do virus,... bạn vẫn phải trả phí cài đặt tận nơi.)
 - Hỗ trợ cài đặt phần mềm, games qua TeamViewer hoặc hướng dẫn qua Facebook, Zalo.
 
 ### Các dịch vụ khác
@@ -87,7 +87,9 @@ Các trường hợp khác : 20.000₫
 6. Trong trường hợp chúng tôi đã đến nhưng bạn không muốn cài đặt, bạn sẽ phải trả 50.000₫ phí đi lại.
 7. Chúng tôi luôn kiểm tra trạng thái máy trước khi sửa. Trong trường hợp không cần phải cài lại windows, chúng tôi sẽ sửa và lấy theo phí các dịch vụ bổ sung ở trên. Bạn có thể yêu cầu cài lại windows nếu muốn.
 
-### Thời gian hoạt động
+PHẢN ÁNH THÁI ĐỘ CỦA CHÚNG TÔI : INBOX TRỰC TIẾP QUA FACEBOOK.
+
+### Thời gian hoạt động (Updated 21/8/2019)
 
 - Thứ 2 : 13h đến 21h
 - Chủ nhật : 8h đến 21h
@@ -102,7 +104,7 @@ Các trường hợp khác : 20.000₫
 ### FAQs
 
 1. Tôi đã mua gói cài win có bảo hành. Làm thế nào để được bảo hành nếu cần?
-- Bạn hãy ib qua facebook của Admin ở dưới. Chúng tôi sẽ hẹn lịch bảo hành trong thời gian hoạt động.
+- Bạn hãy inbox với admin để hẹn lịch bảo hành. Chúng tôi sẽ bảo hành trong thời gian hoạt động.
 
 2. Tôi đã mua các phần mềm diệt virus bản quyền như BKAV, Kaspersky,... Khi cài lại win có bị mất bản quyền không?
 - Bạn hãy yên tâm về vấn đề này. Đối với BKAV, chúng tôi sẽ backup bản quyền trước khi cài lại win. Còn đa số các phần mềm còn lại đều lưu bản quyền trên account. Bạn có thể yên tâm nếu mua các phần mềm bản quyền này.
