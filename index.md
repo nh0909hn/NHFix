@@ -110,7 +110,6 @@ Các trường hợp khác : 20.000₫
 3. Laptop của tôi được cài sẵn win bản quyền. Vậy sau khi cài lại win có mất bản quyền không? 
 - Do đây là windows bản quyền dưới dạng OEM nên sau khi cài lại win sẽ mất bản quyền. Nhưng sau khi cài lại win, bạn sẽ được một bản windows sạch hơn, mượt hơn và không có các phần mềm thừa thãi của nhà sản xuất. Chúng tôi sẽ active bản quyền windows vĩnh viễn miễn phí cho bạn.
 
-### Liên hệ đặt lịch ngay
+### Liên hệ đặt lịch
 
-- Facebook : [Văn Hoàng](https://facebook.com/BlakeCoDon)
-- Facebook : [Nguyễn Hiếu](https://facebook.com/nobinguyen.producer)
+Liên hệ qua Facebook admin ở trên để đặt lịch.
