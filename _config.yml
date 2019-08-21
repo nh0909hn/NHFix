@@ -1,5 +1,23 @@
-title: NHFix
-description: Dịch vụ sửa chữa, cài đặt, lắp đặt PC giá rẻ.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
+# Setup
+title:        NHFix
+tagline:      Fix your PC!
+baseurl:      ""
+paginate:     1
+locale:       "vi"
+
+# About/contact
+author:
+  name:       NH Studio
+  url:        https://fix.nhstudiovn.xyz
+
+# Gems
+gems:
+  - jekyll-paginate
+
+# Others
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
