@@ -58,7 +58,7 @@ Gói 4 (Gói cao cấp) phù hợp với những đối tượng người dùng 
 + Muốn được cài đầy đủ các driver, phần mềm phổ thông để có thể sử dụng ngay sau khi cài đặt.
 + Hệ điều hành cũ còn lưu dữ liệu trên Desktop, Documents, Download,... và cần sao lưu trước khi cài đặt lại.
 + Cần được bảo hành miễn phí trong 1 tháng kể từ khi sửa chữa, đề phòng phát sinh lỗi.
-+ Muốn được giải đáp thắc mắc về phần mềm, windows online miễn phí trong thời gian còn bảo hành.
++ Cần tư vấn, hướng dẫn, cài đặt PC từ xa trong thời gian bảo hành.
 
 GIẢM GIÁ 10% KHI CÀI TỪ 3 MÁY TRỞ LÊN.
 
@@ -70,6 +70,7 @@ GIẢM GIÁ 10% KHI CÀI TỪ 3 MÁY TRỞ LÊN.
 - Khôi phục dữ liệu ổ cứng bị quick format hoặc bị xóa (Nếu có thể) : 30.000₫
 - Cài soft, driver,... : 15.000₫
 - Cài Android : 50.000₫
+
 Các trường hợp khác : 20.000₫
 
 ### Lưu ý
