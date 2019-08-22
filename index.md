@@ -28,7 +28,7 @@ Gói 4 : Gói cao cấp (75.000₫)
 - Active Windows vĩnh viễn miễn phí (Bản quyền được liên kết với tài khoản MS. Đối với bản LTSB/LTSC sẽ chỉ là active thường).
 - Hỗ trợ sao lưu dữ liệu trên ổ hệ điều hành cũ (VD : Desktop, Download, Documents,...).
 - Bảo hành miễn phí trong vòng 1 tháng.
-- Giải đáp thắc mắc về phần mềm, windows online miễn phí trong thời gian còn bảo hành.
+- Tư vấn, hướng dẫn, cài đặt PC từ xa trong thời gian bảo hành.
 
 Gói 5 : Cài Linux
 - Coming soon!
@@ -61,11 +61,6 @@ Gói 4 (Gói cao cấp) phù hợp với những đối tượng người dùng 
 + Muốn được giải đáp thắc mắc về phần mềm, windows online miễn phí trong thời gian còn bảo hành.
 
 GIẢM GIÁ 10% KHI CÀI TỪ 3 MÁY TRỞ LÊN.
-
-### Lợi ích khi được giải đáp thắc mắc về phần mềm, windows online
-
-- Trước khi hết bảo hành 7 ngày, nếu bạn có thắc mắc về lỗi phần mềm, windows do chúng tôi gây ra thì bạn sẽ được bảo hành thêm 2 tuần kể từ khi sửa chữa lỗi đó mà không cần trả thêm phí sửa chữa tận nơi. (Lưu ý : Nếu lỗi do xung đột phần mềm hoặc do virus,... bạn vẫn phải trả phí cài đặt tận nơi.)
-- Hỗ trợ cài đặt phần mềm, games qua TeamViewer hoặc hướng dẫn qua Facebook, Zalo.
 
 ### Các dịch vụ khác
 
@@ -111,6 +106,9 @@ PHẢN ÁNH THÁI ĐỘ CỦA CHÚNG TÔI : INBOX TRỰC TIẾP QUA FACEBOOK.
 
 3. Laptop của tôi được cài sẵn win bản quyền. Vậy sau khi cài lại win có mất bản quyền không? 
 - Do đây là windows bản quyền dưới dạng OEM nên sau khi cài lại win sẽ mất bản quyền. Nhưng sau khi cài lại win, bạn sẽ được một bản windows sạch hơn, mượt hơn và không có các phần mềm thừa thãi của nhà sản xuất. Chúng tôi sẽ active bản quyền windows vĩnh viễn miễn phí cho bạn.
+
+4. Tôi không am hiểu về PC nên tôi không hiểu máy của tôi hỏng gì và cần sửa gì. Vậy tôi phải làm gì?
+- Hãy inbox trực tiếp với admin để biết thêm chi tiết và đặt lịch. Chúng tôi sẽ kiểm tra máy của bạn và cài đặt gói phù hợp.
 
 ### Liên hệ đặt lịch
 
