@@ -111,6 +111,11 @@ PHẢN ÁNH THÁI ĐỘ CỦA CHÚNG TÔI : INBOX TRỰC TIẾP QUA FACEBOOK.
 4. Tôi không am hiểu về PC nên tôi không hiểu máy của tôi hỏng gì và cần sửa gì. Vậy tôi phải làm gì?
 - Hãy inbox trực tiếp với admin để biết thêm chi tiết và đặt lịch. Chúng tôi sẽ kiểm tra máy của bạn và cài đặt gói phù hợp.
 
+### Về vấn đề phí gửi xe
+
+- Trong trường hợp bạn ở chung cư hoặc những nơi mất phí gửi xe, bạn có thể tùy tâm đóng tiền gửi xe cho chúng tôi, hoặc chúng tôi sẽ tự đóng mà bạn không mất thêm chi phí.
+- Rất cảm ơn những bạn đã giúp chúng tôi đóng phí gửi xe.
+
 ### Liên hệ đặt lịch
 
 Liên hệ qua Facebook admin ở trên để đặt lịch.
