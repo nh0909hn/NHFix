@@ -7,23 +7,26 @@
 ### Các gói dịch vụ
 
 Gói 1 : Gói Lite (20.000₫)
-- Hỗ trợ cài đặt Windows.
+- Hỗ trợ cài đặt Windows (7 Pro/Ultimate, 10 Home/Edu/Pro/LTSC) 32bit và 64bit.
 - Active Windows vĩnh viễn miễn phí (Bản quyền được liên kết với tài khoản MS. Đối với bản LTSB/LTSC sẽ chỉ là active thường).
 - Không hỗ trợ bảo hành.
 
 Gói 2 : Gói phổ thông (35.000₫)
+- Hỗ trợ cài đặt Windows (7 Pro/Ultimate, 10 Home/Edu/Pro/LTSC) 32bit và 64bit.
 - Hỗ trợ cài driver, soft.
 - Active Windows vĩnh viễn miễn phí (Bản quyền được liên kết với tài khoản MS. Đối với bản LTSB/LTSC sẽ chỉ là active thường).
 - Hỗ trợ sao lưu dữ liệu trên ổ hệ điều hành cũ (VD : Desktop, Download, Documents,...).
 - Không hỗ trợ bảo hành.
 
 Gói 3 : Gói tiêu chuẩn (50.000₫)
+- Hỗ trợ cài đặt Windows (7 Pro/Ultimate, 10 Home/Edu/Pro/LTSC) 32bit và 64bit.
 - Hỗ trợ cài driver, soft.
 - Active Windows vĩnh viễn miễn phí (Bản quyền được liên kết với tài khoản MS. Đối với bản LTSB/LTSC sẽ chỉ là active thường).
 - Hỗ trợ sao lưu dữ liệu trên ổ hệ điều hành cũ (VD : Desktop, Download, Documents,...).
 - Bảo hành miễn phí trong vòng 2 tuần.
 
 Gói 4 : Gói cao cấp (75.000₫)
+- Hỗ trợ cài đặt Windows (7 Pro/Ultimate, 10 Home/Edu/Pro/LTSC) 32bit và 64bit.
 - Hỗ trợ cài driver, soft.
 - Active Windows vĩnh viễn miễn phí (Bản quyền được liên kết với tài khoản MS. Đối với bản LTSB/LTSC sẽ chỉ là active thường).
 - Hỗ trợ sao lưu dữ liệu trên ổ hệ điều hành cũ (VD : Desktop, Download, Documents,...).
@@ -82,8 +85,7 @@ Các trường hợp khác : 20.000₫
 5. Nếu bạn có key windows bản quyền hoặc tài khoản MS có windows bản quyền, bạn có thể yêu cầu chúng tôi không active windows.
 6. Trong trường hợp chúng tôi đã đến nhưng bạn không muốn cài đặt, bạn sẽ phải trả 50.000₫ phí đi lại.
 7. Chúng tôi luôn kiểm tra trạng thái máy trước khi sửa. Trong trường hợp không cần phải cài lại windows, chúng tôi sẽ sửa và lấy theo phí các dịch vụ bổ sung ở trên. Bạn có thể yêu cầu cài lại windows nếu muốn.
-
-PHẢN ÁNH THÁI ĐỘ CỦA CHÚNG TÔI : INBOX TRỰC TIẾP QUA FACEBOOK.
+8. Chúng tôi không cài Windows 8/8.1 do Windows 10 có hiệu năng tốt hơn, dễ sử dụng và phổ biến hơn. Nếu bạn lo ngại về việc Windows 10 có nhiều phần mềm thừa thãi, gây chậm máy thì bạn có thể chọn cài Windows 10 IOT Enterprise LTSC 2019. Đây là phiên bản Windows 10 sạch 100%, không có các phần mềm như Microsoft Store, Cortana, Microsoft Edge,... Bản Windows này thường được sử dụng trong các doanh nghiệp, ngân hàng nên bạn có thể yên tâm khi sử dụng.
 
 ### Thời gian hoạt động (Updated 21/8/2019)
 
