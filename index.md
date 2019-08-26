@@ -1,6 +1,6 @@
 ## Dịch vụ cài đặt, sửa chữa, lắp ráp PC của NH Studio.
 
-- Uy tin 100%. 
+- Uy tín 100%. 
 - Kiểm tra tình trạng máy trước khi sửa.
 - Hoạt động trên các địa bàn : Bắc Từ Liêm, Nam Từ Liêm, Cầu Giấy.
 
@@ -33,7 +33,14 @@ Gói 4 : Gói cao cấp (75.000₫)
 - Bảo hành miễn phí trong vòng 1 tháng.
 - Tư vấn, hướng dẫn, cài đặt PC từ xa trong thời gian bảo hành.
 
-Gói 5 : Cài Linux
+Gói 5 : Gói XP (40.000₫)
+- Hỗ trợ ghost Windows XP Pro SP3 32bit.
+- Cài đặt full soft, full driver.
+- Active bản quyền vĩnh viễn.
+- Hỗ trợ sao lưu dữ liệu trên ổ hệ điều hành cũ (VD : Desktop, Download, Documents,...).
+- Không hỗ trợ bảo hành.
+
+Gói 6 : Cài Linux / Ubuntu
 - Coming soon!
 
 Gói đặc biệt : Lắp ráp PC (100.000₫)
@@ -62,6 +69,12 @@ Gói 4 (Gói cao cấp) phù hợp với những đối tượng người dùng 
 + Hệ điều hành cũ còn lưu dữ liệu trên Desktop, Documents, Download,... và cần sao lưu trước khi cài đặt lại.
 + Cần được bảo hành miễn phí trong 1 tháng kể từ khi sửa chữa, đề phòng phát sinh lỗi.
 + Cần tư vấn, hướng dẫn, cài đặt PC từ xa trong thời gian bảo hành.
+
+Gói 5 (Gói XP) phù hợp với những đối tượng người dùng :
++ Máy có dung lượng RAM dưới 1GB.
++ Cần cài đặt Windows XP do đã quen sử dụng hệ điều hành này.
++ Muốn được cài đầy đủ các driver, phần mềm phổ thông để có thể sử dụng ngay sau khi cài đặt.
++ Hệ điều hành cũ còn lưu dữ liệu trên Desktop, Documents, Download,... và cần sao lưu trước khi cài đặt lại.
 
 GIẢM GIÁ 10% KHI CÀI TỪ 3 MÁY TRỞ LÊN.
 
