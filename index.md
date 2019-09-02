@@ -4,6 +4,15 @@
 - Kiểm tra tình trạng máy trước khi sửa.
 - Hoạt động trên các địa bàn : Bắc Từ Liêm, Nam Từ Liêm, Cầu Giấy.
 
+## Phương thức thanh toán
+
+- Thanh toán bằng tiền mặt.
+
+- Thanh toán bằng chuyển khoản :
+Ngân hàng TMCP Quân Đội - MB
+Tên : VAN NGOC HOANG
+Số tài khoản : 9704229276004152
+
 ### Các gói dịch vụ
 
 Gói 1 : Gói Lite (20.000₫)
