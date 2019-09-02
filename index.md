@@ -6,13 +6,12 @@
 
 ## Phương thức thanh toán
 
-Thanh toán bằng tiền mặt.
+1. Thanh toán bằng tiền mặt.
 
-Thanh toán bằng chuyển khoản :
-
-+ Ngân hàng TMCP Quân Đội - MB
-+ Tên : VAN NGOC HOANG
-+ Số tài khoản : 9704229276004152
+2.Thanh toán bằng chuyển khoản :
+- Ngân hàng TMCP Quân Đội - MB
+- Tên : VAN NGOC HOANG
+- Số tài khoản : 9704229276004152
 
 ### Các gói dịch vụ
 
