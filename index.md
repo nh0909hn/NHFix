@@ -6,9 +6,9 @@
 
 ## Phương thức thanh toán
 
-- Thanh toán bằng tiền mặt.
+Thanh toán bằng tiền mặt.
 
-- Thanh toán bằng chuyển khoản :
+Thanh toán bằng chuyển khoản :
 
 + Ngân hàng TMCP Quân Đội - MB
 + Tên : VAN NGOC HOANG
