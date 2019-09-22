@@ -8,7 +8,7 @@
 
 1. Thanh toán bằng tiền mặt.
 
-2. Thanh toán bằng chuyển khoản :
+2. Thanh toán bằng chuyển khoản (Chuyển nhanh 24/7) :
 - Ngân hàng TMCP Quân Đội - MB
 - Tên : VAN NGOC HOANG
 - Số tài khoản : 9704229276004152
@@ -96,7 +96,7 @@ GIẢM GIÁ 10% KHI CÀI TỪ 3 MÁY TRỞ LÊN.
 - Cài soft, driver,... : 15.000₫
 - Cài Android : 50.000₫
 
-Các trường hợp khác : 20.000₫
+Các trường hợp khác : từ 20.000₫ đến 50.000₫
 
 ### Lưu ý
 
