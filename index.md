@@ -13,6 +13,10 @@
 - Chủ tài khoản : Van Ngoc Hoang
 - Số tài khoản / Số thẻ : 9704229276004152
 
+3. Thanh toán bằng Ví MoMo / ViettelPay
+- Chủ tài khoản : Van Ngoc Hoang
+- Số điện thoại : 0522974462
+
 ### Các gói dịch vụ
 
 Gói 1 : Gói Lite (20.000₫)
