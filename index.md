@@ -10,8 +10,8 @@
 
 2. Thanh toán bằng chuyển khoản (Chuyển nhanh 24/7) :
 - Ngân hàng TMCP Quân Đội - MB
-- Tên : VAN NGOC HOANG
-- Số tài khoản : 9704229276004152
+- Chủ tài khoản : Van Ngoc Hoang
+- Số tài khoản / Số thẻ : 9704229276004152
 
 ### Các gói dịch vụ
 
